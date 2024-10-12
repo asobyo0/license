@@ -1,8 +1,7 @@
 {
   "ATM-1": {
-    "194.105.5.211": {
-      "username": "asobyo0",
-      "key": "sss"
-    }
+    "194.105.5.211":"asobyo0",
+    "13.13.31.11":"örnekip",
+    "31.13.1.31":"sondavirgulyok" 
   }
 }
